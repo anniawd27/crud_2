@@ -1,0 +1,7 @@
+{
+  "name": "crud_nisa",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
